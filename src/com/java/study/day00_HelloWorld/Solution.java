@@ -1,4 +1,6 @@
-package com.java.study.day01;
+package com.java.study.day00_HelloWorld;
+
+//My solutions to the practice exercises, coding challenges, and other problems on Hackerrank!
 
 import java.util.*;
 
