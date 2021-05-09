@@ -1,4 +1,4 @@
-package com.java.study.day02_Operators;
+package study.day02_Operators;
 /*
     **Task**
     Given the meal price(base cost of a meal),tip percent (the percentage of the meal price being added as tip), and tax percent (the percentage of the *meal price being added as tax) for a meal, find and print the meal's total cost. Round the result to the nearest integer.
@@ -32,7 +32,10 @@ package com.java.study.day02_Operators;
     **Sample Output**
     `15`
  */
-import java.io.*;
+
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
 
 class Result {
 

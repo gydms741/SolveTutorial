@@ -1,8 +1,8 @@
-package com.java.study.day00_HelloWorld;
+package study.day00_HelloWorld;
 
 //My solutions to the practice exercises, coding challenges, and other problems on Hackerrank!
 
-import java.util.*;
+import java.util.Scanner;
 
         /*
         **Input Format**

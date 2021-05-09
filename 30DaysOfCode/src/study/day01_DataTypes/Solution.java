@@ -1,4 +1,4 @@
-package com.java.study.day01_DataTypes;
+package study.day01_DataTypes;
 /*
     Task
     Complete the code in the editor below. The variables i, d, and s are already declared and initialized for you. You must:
@@ -38,7 +38,8 @@ package com.java.study.day01_DataTypes;
     When we sum the floating-point numbers 4.0 and 4.0, we get 8.0.
     When we concatenate HackerRank with is the best place to learn and practice coding!, we get HackerRank is the best place to learn and practice coding!.
  */
-import java.util.*;
+
+import java.util.Scanner;
 
 public class Solution {
 

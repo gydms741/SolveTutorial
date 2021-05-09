@@ -1,4 +1,4 @@
-package com.java.study.day03_ConditionalStatements;
+package study.day03_ConditionalStatements;
 /*
         **Task**
         Given an integer,n, perform the following conditional actions:
@@ -35,7 +35,9 @@ package com.java.study.day03_ConditionalStatements;
         *Sample Case 1:* and is even, so it is not weird. Thus, we print `Not Weird`.
  */
 
-import java.io.*;
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
 
 public class Solution {
     public static void main(String[] args) throws IOException {
