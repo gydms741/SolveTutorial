@@ -48,5 +48,12 @@ public class ArrayPractice {
         // Custom print out arrays
         printArray(intArray2);
         printArray(intArray3);
+
+        // Retrieve objects
+        System.out.println(intArray2[3]);
+
+        // Given function
+        Arrays.sort(intArray3);
+        printArray(intArray3);
     }
 }
