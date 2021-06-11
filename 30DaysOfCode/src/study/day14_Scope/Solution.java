@@ -8,7 +8,6 @@ class Difference{
 
     public Difference(int[] a) {
         this.elements = a;
-
     }
 
     public void computeDifference(){
