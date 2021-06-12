@@ -5,6 +5,8 @@ public class Node {
     Node next;
     int data;
 
+    // Methods
+
     // Constructors
     public Node(int newData){
         data = newData;
@@ -17,7 +19,6 @@ public class Node {
     }
 
     // Getters and Setters
-
     public int getData(){
         return data;
     }
